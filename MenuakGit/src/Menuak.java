@@ -1,3 +1,4 @@
+//ariketa
 import java.util.*;
 public class Menuak {
 	
@@ -27,6 +28,8 @@ public class Menuak {
 		default:
 			System.out.println("no has metido un valor válido");
 			aukera=entrada.next();
+			
+		
 		}
 
 	}
